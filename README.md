@@ -12,3 +12,24 @@ plugins {
 
 distributionUrl=https\://services.gradle.org/distributions/gradle-7.3.3-bin.zip
 ```
+
+
+# 其他版本
+
+[Android_Gradle_DSL_7.4.0](https://github.com/angcyo/Android_Gradle_DSL_7.4.0)
+
+[Android_Gradle_DSL_7.2.1](https://github.com/angcyo/Android_Gradle_DSL_7.2.1)
+
+[Android_Gradle_DSL_7.0.0](https://github.com/angcyo/Android_Gradle_DSL_7.0.0)
+
+[Android_Gradle_DSL_4.1.0](https://github.com/angcyo/Android_Gradle_DSL_4.1.0)
+
+[Android_Gradle_DSL_4.0.1](https://github.com/angcyo/Android_Gradle_DSL_4.0.1)
+
+[Android_Gradle_DSL_4.0](https://github.com/angcyo/Android_Gradle_DSL_4.0)
+
+[Android_Gradle_DSL_3.5](https://github.com/angcyo/Android_Gradle_DSL_3.5)
+
+[Android_Gradle_DSL_3.3](https://github.com/angcyo/Android_Gradle_DSL_3.3)
+
+[Android_Gradle_DSL_3.2](https://github.com/angcyo/Android_Gradle_DSL_3.2)
